@@ -4,7 +4,7 @@ This is my home page! My name is Dylan Ruiz and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/dedruiz33.
+My GitHub page is [http://github.com/dedruiz33](http://github.com/dedruiz33).
 
 ### CPSC 120
 
