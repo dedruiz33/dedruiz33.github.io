@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Dylan Ruiz and I am a student at [Cal State Fullerton](https://www.fullerton.edu/) and my major is computer engineering.
+This is my home page! My name is Dylan Ruiz, and I am a student at [Cal State Fullerton](https://www.fullerton.edu/). My major is computer engineering.
 
 ## Computer Science Projects
 
@@ -33,7 +33,7 @@ My GitHub page is [http://github.com/dedruiz33](http://github.com/dedruiz33).
 
     Lab 11, part 2 was one of my favorite labs because it introduced me to object-oriented 
     programming. This allows us to represent the real world more accurately in code as the 
-    objects we create have both properties and behaviors in the form of member variables 
-    and member functions. In this case I created my first class that determined the status 
+    objects we create have both properties and behaviors in the form of data members and 
+    member functions. In this lab I created my first class that determined the status 
     of a hi-low guessing game using its member functions to adjust and evaluate its data 
     members.
